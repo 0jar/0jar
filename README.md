@@ -12,6 +12,8 @@ If you want to get in touch, [my website has a contact page](https://jarema.me/c
 
 <p align="center"><img width="88" height="31" style="image-rendering: pixelated;" src="https://jarema.me/badge.png"></p>
 
+> **Heads up:** [Codeberg](https://codeberg.org/jartf) is my primary platform. I'm keeping GitHub and GitLab as mirrors and they'll stay automatically synced with Codeberg, but I won't be checking those often.
+
 <p align="center">
 <a href="https://codeberg.org/jartf"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white"></a>
 <a href="https://github.com/jartf"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> 
