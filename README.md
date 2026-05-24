@@ -12,13 +12,13 @@ If you want to get in touch, [my website has a contact page](https://jarema.me/c
 
 <p align="center"><img width="88" height="31" style="image-rendering: pixelated;" src="https://jarema.me/badge.png"></p>
 
-> **Heads up:** [Codeberg](https://codeberg.org/jartf) is my primary platform. I'm keeping GitHub, GitLab, and Disroot Forgejo as mirrors and they'll be automatically synced with Codeberg, but I won't be checking those often.
+> **Heads up:** [Codeberg](https://codeberg.org/0jar) is my primary platform. I'm keeping GitHub, GitLab, and Disroot Forgejo as mirrors and they'll be automatically synced with Codeberg, but I won't be checking those often.
 
 <p align="center">
-<a href="https://codeberg.org/jartf"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white"></a>
+<a href="https://codeberg.org/0jar"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white"></a>
 <a href="https://git.disroot.org/jartf"><img alt="Disroot Forgejo" src="https://img.shields.io/badge/Disroot%20Forgejo-50162D?style=flat-square&logo=Disroot&logoColor=white"></a>
-<a href="https://github.com/jartf"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> 
-<a href="https://gitlab.com/jartf"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"></a>
+<a href="https://github.com/0jar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> 
+<a href="https://gitlab.com/0jar"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"></a>
 </p>
 
 ---
