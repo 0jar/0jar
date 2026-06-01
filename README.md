@@ -24,7 +24,7 @@ If you want to get in touch, [my website has a contact page](https://jarema.me/c
 ---
 
 <p align="center">
-<img alt="GitHub Streak" src="https://github-readme-streak-stats-jarema-huh.vercel.app/?user=0jar&theme=dark">
+<img alt="GitHub Streak" src="https://github-readme-streak-stats-jarema-huh.vercel.app?user=0jar&locale=en&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&card_width=510&card_height=200">
 </p>
 
 ---
