@@ -2,7 +2,7 @@
 
 <h2 align="center">hi, tere, chào, i'm Jarema</h2>
 
-I'm a 20-year-old guy currently based in Hanoi. I study international economics, sometimes I write about tech and random stuff on [my website](https://jarema.me) in English mostly, with some Vietnamese and Estonian.
+I'm a 21-year-old guy currently based in Hanoi. I study international economics, sometimes I write about tech and random stuff on [my website](https://jarema.me) in English mostly, with some Vietnamese and Estonian.
 
 I'm not primarily a developer, but I can read code, write some of it and break most of it (lol). My projects are mostly personal infrastructure, web things, really just whatever I happen to need at the time.
 
